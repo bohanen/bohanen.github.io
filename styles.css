@@ -8,3 +8,12 @@ body {
 div {
     background-color: grey;
 }
+
+.first_list {
+    font-size: 14px;
+    font-weight: bold;
+    width: 200px;
+    color: darkcyan;
+    background-color: black;
+    text-align: right;
+}
